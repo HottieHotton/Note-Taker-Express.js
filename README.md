@@ -20,8 +20,8 @@
 
   ## Usage
   ---------------------
-  ![Front-Page](\Images\Note-Taker-Image.png)
-  
+  ![Front-Page](public\assets\Images\Note-Taker-Image.png)
+
   When you load up the website, you can add notes and it could post itself to the database/json file and you can remove the note as well!
 
 
